@@ -22,5 +22,7 @@ Você será redirecionado para a página de login então Utilize Usuário e Senh
 
 ## Para acessar o dashboard da aplicação, será necessario ter um equipamento da mikrotik para acessar
 
-Para fins didaticos utilizamos uma VM com o S.O dos sistemas mikrotik que são um apanhado generico.
-
+Para fins didaticos utilizamos uma VM com o S.O dos sistemas mikrotik que são um apanhado generico que pode ser baixada no site oficial da MK e ser carregada diretamente no VirtualBox ou VMware.
+```
+https://download.mikrotik.com/routeros/6.45.3/chr-6.45.3.vdi
+```

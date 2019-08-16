@@ -19,3 +19,8 @@ localhost:8080/RouterOS-PHP
 Você será redirecionado para a página de login então Utilize Usuário e Senha padrão do nosso sistema
 - <b>Usuário:</b> admin
 - <b>Senha:</b> admin
+
+## Para acessar o dashboard da aplicação, será necessario ter um equipamento da mikrotik para acessar
+
+Para fins didaticos utilizamos uma VM com o S.O dos sistemas mikrotik que são um apanhado generico.
+

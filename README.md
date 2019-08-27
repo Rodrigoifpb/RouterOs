@@ -26,3 +26,4 @@ Para fins didaticos utilizamos uma VM com o S.O dos sistemas mikrotik que são u
 ```
 https://download.mikrotik.com/routeros/6.45.3/chr-6.45.3.vdi
 ```
+![RouterOS](https://user-images.githubusercontent.com/44972318/63776284-76d8c980-c8b7-11e9-982c-0dfa9eb7c452.jpg)
